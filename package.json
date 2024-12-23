@@ -5,14 +5,14 @@
   "description": "[![Actions Status](https://github.com/DolgorukovaNA/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/DolgorukovaNA/frontend-project-44/actions)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "brain-even": "node bin/brain-even.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js"
   },
   "dependencies": {
     "brain-even": "^0.1.12",
